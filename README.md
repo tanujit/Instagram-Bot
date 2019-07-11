@@ -13,7 +13,7 @@
        before running make sure you have installed selenium, use the following code for that
        python -m pip install selenium
        Download geckodriver from https://github.com/mozilla/geckodriver/releases 
-       I used win64 for windows 10 64 bit
+       I use XUbuntu but for windows 10 64 bit
        Extract the geckodriver from geckodriver-v0.24.0-win64.zip in
        C:\Users\Username\AppData\Local\Programs\Python\Python37-32
 
