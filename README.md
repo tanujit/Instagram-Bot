@@ -16,4 +16,5 @@
        I use XUbuntu but for windows 10 64 bit
        Extract the geckodriver from geckodriver-v0.24.0-win64.zip in
        C:\Users\Username\AppData\Local\Programs\Python\Python37-32
+       Gecko is a web browser engine used in many applications developed by Mozilla Foundation and the Mozilla Corporation. Gecko Driver is the link between your tests in Selenium and the Firefox browser. 
 
